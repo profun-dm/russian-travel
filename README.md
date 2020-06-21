@@ -10,3 +10,5 @@
 
 Проект о путешествии по России.
 
+Ссылка на проект: (https://profun-dm.github.io/russian-travel/)
+
