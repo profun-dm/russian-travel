@@ -2,3 +2,25 @@
 @import url(./__text/intro__text.css);
 @import url(./__list/intro__list.css);
 @import url(./__list-number/intro__list-number.css);
+
+.intro{
+    padding: 0 148px 92px;
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        padding: 0 48px 92px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .intro {
+        padding: 0 24px 88px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .intro {
+        padding: 0 16px 64px;
+    }
+}
