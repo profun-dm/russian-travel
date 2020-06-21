@@ -1,16 +1,4 @@
 .cover__link {
-    font-family: 'Inter', Arial, sans-serif;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 1.06;
-    color: white;
     text-decoration: none;
 }
 
-@media screen and (max-width: 425px) {
-    .cover__link {
-        font-size: 32px;
-        line-height: 1.09;
-    }
-}
