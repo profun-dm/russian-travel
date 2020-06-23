@@ -7,6 +7,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 0 24px;
+    align-self: stretch;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,11 +22,10 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 700px) {
     .footer {
         flex-direction: column;
         padding: 0 16px 24px;
         align-items: flex-start;
-        min-height: 310px;
     }
 }
